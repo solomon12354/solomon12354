@@ -8,8 +8,7 @@
 ### My contact and social media
 
 - [![image](https://github.com/solomon12354/solomon12354/blob/main/facebook.png?raw=true)](https://www.facebook.com/slwang1/)
-- [![image](![image](https://github.com/solomon12354/solomon12354/assets/84257391/d1fcc494-da79-48f5-9a95-f77eab50fb83)
-)](https://www.instagram.com/shao_lei_900518/?hl=zh-tw)
+- [![image](https://github.com/solomon12354/solomon12354/assets/84257391/d1fcc494-da79-48f5-9a95-f77eab50fb83)](https://www.instagram.com/shao_lei_900518/?hl=zh-tw)
 
 
 
