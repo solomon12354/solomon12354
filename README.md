@@ -6,9 +6,10 @@
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
 
 ### My contact and social media
-- <img src="https://github.com/solomon12354/solomon12354/assets/84257391/90bdbbf1-9d82-4e2f-b32b-40133a7aec73" width="64" height="64">(https://www.facebook.com/slwang1/)
+
 - [![image](https://github.com/solomon12354/solomon12354/blob/main/facebook.png?raw=true)](https://www.facebook.com/slwang1/)
-- [![image](https://github.com/solomon12354/solomon12354/assets/84257391/52f7dc1c-cccd-4556-9569-adb13db46e1b = 128x128)](https://www.instagram.com/shao_lei_900518/?hl=zh-tw)
+- [![image](![image](https://github.com/solomon12354/solomon12354/assets/84257391/d1fcc494-da79-48f5-9a95-f77eab50fb83)
+)](https://www.instagram.com/shao_lei_900518/?hl=zh-tw)
 
 
 
