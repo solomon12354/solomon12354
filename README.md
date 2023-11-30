@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <img src = "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/404590649_6743095445739315_6295497386571496388_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=VuIvmOtyJrEAX9aZ4lb&_nc_ht=scontent-tpe1-1.xx&oh=00_AfBwdfL8QMVB6iGF6F3EKbON_5rg-vYx9gFiNN49oBeB1A&oe=656CC4E4" width="25%">
+
+
 - 🔭 I’m studying in TaTung University!! A college is located on Taipei, Taiwan.
 - 🌱 I’m currently learning the field of Cyber security!!
 - 🌍 I speak Madarin, English and Japanese!
