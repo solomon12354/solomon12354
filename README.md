@@ -5,7 +5,12 @@
 
 - 🔭 I’m studying in TaTung University!! A college is located on Taipei, Taiwan.
 <img src = "https://upload.wikimedia.org/wikipedia/zh/thumb/c/ca/Taiwan_Tatung_University_seal.svg/1200px-Taiwan_Tatung_University_seal.svg.png" width="15%">
-- 🌱 I’m currently learning the field of Cyber security!!
+
+
+- 🌱 I’m currently learning the field of Cyber security!! And this is my favorite topic in computer science!
+<img src = "https://media.licdn.com/dms/image/D5612AQE0r5WC8r0HQg/article-cover_image-shrink_720_1280/0/1657711469335?e=2147483647&v=beta&t=y46kqfqImgi-IbshBGRs3lMz1HCTBvL8RjFAILShitg" width="20%">
+
+
 - 🌍 I speak Madarin, English and Japanese!
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
 
