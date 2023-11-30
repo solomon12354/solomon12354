@@ -11,7 +11,8 @@
 
 ### My skills
 
-- [![solomon12354's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon12354&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://skillicons.dev/icons?i=c">
+[![solomon12354's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon12354&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
