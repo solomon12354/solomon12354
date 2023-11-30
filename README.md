@@ -33,7 +33,9 @@ My Email:solomon12354@gmail.com
 [![solomon12354's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon12354&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My works
-<a href="https://solomon12354.github.io/W3D_hw/">My Web3D homework</a>
+- <a href="https://github.com/solomon12354/AIOT_detect_tomato">My Graduation project</a>
+- <a href="https://solomon12354.github.io/W3D_hw/">My Web3D Homework.</a>
+- <a href="https://www.youtube.com/watch?v=MWNQtbnyI1c">I found a exploit on a website.</a>
 
 <!--
 **solomon12354/solomon12354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
