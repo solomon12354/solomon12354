@@ -14,7 +14,7 @@
 - 🌍 I speak Madarin, English and Japanese!
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
 
-<img src = "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/344202535_996714311497944_4601046287309866977_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_ohc=6WBcFc0mu7EAX9vcclC&_nc_ht=scontent-tpe1-1.xx&oh=00_AfDu7ZaDtxXndgg7yTO0VRTjpyvQdnKqV1OZqnUC_L1Kgg&oe=656E75AE" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/assets/84257391/1d68d02f-b48c-4b84-a54b-a67b7100cfe7" width = "40%">
+<img src = "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/344202535_996714311497944_4601046287309866977_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_ohc=6WBcFc0mu7EAX9vcclC&_nc_ht=scontent-tpe1-1.xx&oh=00_AfDu7ZaDtxXndgg7yTO0VRTjpyvQdnKqV1OZqnUC_L1Kgg&oe=656E75AE" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/assets/84257391/1d68d02f-b48c-4b84-a54b-a67b7100cfe7" width = "40%"> <img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/361624312_6304805482901649_619759271071350204_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_ohc=6gHQDO4vFpAAX-wdNcD&_nc_ht=scontent-tpe1-1.xx&oh=00_AfCs4a-yi7AgM_WkCgO3_PJugd0t-gG_OZZNAuPA04t6EA&oe=656E074A" width="40%">
 
 
 ### My contact and social media
