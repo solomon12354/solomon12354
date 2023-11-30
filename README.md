@@ -9,6 +9,9 @@
 
 [![image](https://github.com/solomon12354/solomon12354/blob/main/facebook.png?raw=true)](https://www.facebook.com/slwang1/) [![image](https://github.com/solomon12354/solomon12354/assets/84257391/d1fcc494-da79-48f5-9a95-f77eab50fb83)](https://www.instagram.com/shao_lei_900518/?hl=zh-tw) [![image](https://github.com/solomon12354/solomon12354/blob/main/youtube.png?raw=true)](https://www.youtube.com/@shao-leiwang6486)
 
+### My skills
+
+- [![solomon12354's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon12354&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
