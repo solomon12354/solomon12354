@@ -13,6 +13,8 @@
 
 - 🌍 I speak Madarin, English and Japanese!
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
+<img src = "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/344202535_996714311497944_4601046287309866977_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_ohc=6WBcFc0mu7EAX9vcclC&_nc_ht=scontent-tpe1-1.xx&oh=00_AfDu7ZaDtxXndgg7yTO0VRTjpyvQdnKqV1OZqnUC_L1Kgg&oe=656E75AE" width = "40%">
+
 
 ### My contact and social media
 
