@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning the field of Cyber security!! And this is my favorite topic in computer science!
-<img src = "https://media.licdn.com/dms/image/D5612AQE0r5WC8r0HQg/article-cover_image-shrink_720_1280/0/1657711469335?e=2147483647&v=beta&t=y46kqfqImgi-IbshBGRs3lMz1HCTBvL8RjFAILShitg" width="20%">
+<img src = "https://media.licdn.com/dms/image/D5612AQE0r5WC8r0HQg/article-cover_image-shrink_720_1280/0/1657711469335?e=2147483647&v=beta&t=y46kqfqImgi-IbshBGRs3lMz1HCTBvL8RjFAILShitg" width="50%">
 
 
 - 🌍 I speak Madarin, English and Japanese!
