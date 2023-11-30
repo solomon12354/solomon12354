@@ -4,6 +4,7 @@
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="40%">
 
 - 🔭 I’m studying in TaTung University!! A college is located on Taipei, Taiwan.
+<img src = "https://upload.wikimedia.org/wikipedia/zh/thumb/c/ca/Taiwan_Tatung_University_seal.svg/1200px-Taiwan_Tatung_University_seal.svg.png" width="15%">
 - 🌱 I’m currently learning the field of Cyber security!!
 - 🌍 I speak Madarin, English and Japanese!
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
