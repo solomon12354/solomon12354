@@ -12,6 +12,15 @@
 ### My skills
 
 <img src = "https://skillicons.dev/icons?i=c">
+<img src = "https://skillicons.dev/icons?i=cpp">
+<img src = "https://skillicons.dev/icons?i=java">
+<img src = "https://skillicons.dev/icons?i=python">
+<img src = "https://skillicons.dev/icons?i=raspberrypi">
+<img src = "https://skillicons.dev/icons?i=html">
+<img src = "https://skillicons.dev/icons?i=php">
+<img src = "https://skillicons.dev/icons?i=javascript">
+
+
 [![solomon12354's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon12354&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
