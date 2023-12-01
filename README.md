@@ -21,6 +21,7 @@
 ### My contact and social media
 
 [![image](https://github.com/solomon12354/solomon12354/blob/main/facebook.png?raw=true)](https://www.facebook.com/slwang1/) [![image](https://github.com/solomon12354/solomon12354/assets/84257391/d1fcc494-da79-48f5-9a95-f77eab50fb83)](https://www.instagram.com/shao_lei_900518/?hl=zh-tw) [![image](https://github.com/solomon12354/solomon12354/blob/main/youtube.png?raw=true)](https://www.youtube.com/@shao-leiwang6486) [![image](https://github.com/solomon12354/solomon12354/assets/84257391/5b7ccaa8-7bed-4ec1-84ac-a37f92e23c8a)](https://www.dcard.tw/@kwangk.) [![image](https://github.com/solomon12354/solomon12354/blob/main/gmail.png?raw=true)](mailto:solomon12354@gmail.com)
+
 My Email:solomon12354@gmail.com
 
 ### My skills
