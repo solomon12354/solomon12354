@@ -4,7 +4,7 @@
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="40%">
 
 - 🔭 I’m studying in TaTung University!! A college is located on Taipei, Taiwan.
-<a href="https://www.ttu.edu.tw/"><img src = "https://upload.wikimedia.org/wikipedia/zh/thumb/c/ca/Taiwan_Tatung_University_seal.svg/1200px-Taiwan_Tatung_University_seal.svg.png" width="15%"></a>
+<left><a href="https://www.ttu.edu.tw/"><img src = "https://upload.wikimedia.org/wikipedia/zh/thumb/c/ca/Taiwan_Tatung_University_seal.svg/1200px-Taiwan_Tatung_University_seal.svg.png" width="15%"></a></left>
 
 
 - 🌱 I’m currently learning the field of Cyber security!! And this is my favorite topic in computer science!
