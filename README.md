@@ -33,6 +33,10 @@ My Email:solomon12354@gmail.com
 
 [![solomon12354's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon12354&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### My LeetCode stats
+
+[![Leetcode Stats](https://leetcard.solomon12354/solomon12354)](https://leetcode.com/solomon12354)
+
 ### My works
 - <a href="https://github.com/solomon12354/AIOT_detect_tomato">My Graduation project</a>
 - <a href="https://solomon12354.github.io/W3D_hw/">My Web3D Homework.</a>
