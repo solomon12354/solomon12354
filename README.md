@@ -35,7 +35,6 @@ My Email:solomon12354@gmail.com
 
 ### My LeetCode stats
 
-[![Leetcode Stats](https://leetcard.solomon12354/solomon12354)](https://leetcode.com/solomon12354)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/solomon12354?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/solomon12354?theme=unicorn&extension=activity)
 
 
