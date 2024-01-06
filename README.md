@@ -8,7 +8,7 @@
 
 <left><a href="https://www.ttu.edu.tw/"><img src = "https://upload.wikimedia.org/wikipedia/zh/thumb/c/ca/Taiwan_Tatung_University_seal.svg/1200px-Taiwan_Tatung_University_seal.svg.png" width="15%"></a></left>
 
-- 🔭 But now, I’m studying in National Taipei University of Technology's master degree!! Also a college is located on Taipei, Taiwan.
+- 🔭 But now, I’m studying in National Taipei University of Technology's master degree!! It is also a college located on Taipei, Taiwan.
 
 <left><a href="https://www.ntut.edu.tw/"><img src = "https://github.com/solomon12354/solomon12354/assets/84257391/ea92e14d-10cc-41e6-a003-658ed99f5d80" width="15%"></a></left>
 
