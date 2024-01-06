@@ -3,10 +3,14 @@
 <img src = "https://raw.githubusercontent.com/solomon12354/solomon12354/main/FB_IMG_1702191825304.jpg" width="60%">
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="60%">
 
-- 🔭 I’m studying in TaTung University!! A college is located on Taipei, Taiwan.
+- 🔭 My bachelor degree is TaTung University!! A college is located on Taipei, Taiwan.
 
 
 <left><a href="https://www.ttu.edu.tw/"><img src = "https://upload.wikimedia.org/wikipedia/zh/thumb/c/ca/Taiwan_Tatung_University_seal.svg/1200px-Taiwan_Tatung_University_seal.svg.png" width="15%"></a></left>
+
+- 🔭 But now, I’m studying in National Taipei University of Technology's master degree!! Also a college is located on Taipei, Taiwan.
+
+<left><a href="https://www.ntut.edu.tw/"><img src = "https://github.com/solomon12354/solomon12354/assets/84257391/ea92e14d-10cc-41e6-a003-658ed99f5d80" width="15%"></a></left>
 
 
 - 🌱 I’m currently learning the field of Cyber security!! And this is my favorite topic in computer science!
