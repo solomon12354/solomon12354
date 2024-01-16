@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to Shao-Lei Wang's GitHub Website!!!!!
+![image](https://github.com/solomon12354/solomon12354/assets/84257391/d00a3378-d817-4240-9741-6506ffa02bf1)### Hi there 👋 Welcome to Shao-Lei Wang's GitHub Website!!!!!
 
 <img src = "https://raw.githubusercontent.com/solomon12354/solomon12354/main/FB_IMG_1702191825304.jpg" width="60%">
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="60%">
@@ -21,7 +21,8 @@
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
 - ⚡ By the way, I am one of a member in the TaTung University's Guitar club and a member in the badminton team and the volleyball team of TTUCSE!!
 
-<img src = "https://github.com/solomon12354/solomon12354/assets/84257391/cfe1a0a8-a028-4ab5-8682-33e8e66bf887" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/assets/84257391/1d68d02f-b48c-4b84-a54b-a67b7100cfe7" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%">
+<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%">
+
 
 
 ### My contact and social media
