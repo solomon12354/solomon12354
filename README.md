@@ -1,4 +1,4 @@
-![image](https://github.com/solomon12354/solomon12354/assets/84257391/d00a3378-d817-4240-9741-6506ffa02bf1)### Hi there 👋 Welcome to Shao-Lei Wang's GitHub Website!!!!!
+### Hi there 👋 Welcome to Shao-Lei Wang's GitHub Website!!!!!
 
 <img src = "https://raw.githubusercontent.com/solomon12354/solomon12354/main/FB_IMG_1702191825304.jpg" width="60%">
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="60%">
