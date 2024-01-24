@@ -21,7 +21,7 @@
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
 - ⚡ By the way, I am one of a member in the TaTung University's Guitar club and a member in the badminton team and the volleyball team of TTUCSE!!
 
-<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%">
+<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%"><img src="https://github.com/solomon12354/solomon12354/blob/main/divingCertification.jpg?raw=true" width="40%">
 
 
 
