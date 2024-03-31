@@ -44,6 +44,8 @@ My Email:solomon12354@gmail.com
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/solomon12354?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/solomon12354?theme=unicorn&extension=activity)
 
+### My Blog
+- <a href="https://solomon12354.github.io/">MyBlog</a>
 
 ### My works
 - <a href="https://github.com/solomon12354/AIOT_detect_tomato">My Graduation project</a>
