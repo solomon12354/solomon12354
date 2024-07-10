@@ -3,6 +3,11 @@
 <img src = "https://raw.githubusercontent.com/solomon12354/solomon12354/main/FB_IMG_1702191825304.jpg" width="60%">
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="60%">
 
+
+![snake gif](https://github.com/solomon12354/solomon12354/blob/output/github-contribution-grid-snake.gif)
+
+
+
 - 🔭 My bachelor degree is TaTung University!! A college is located on Taipei, Taiwan.
 
 
