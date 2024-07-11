@@ -4,7 +4,7 @@
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="60%">
 
 
-![snake gif](https://github.com/solomon12354/solomon12354/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/solomon12354/solomon12354/blob/output/github-contribution-grid-snake.svg)
 
 
 
