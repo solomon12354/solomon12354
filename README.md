@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to Shao-Lei Wang's GitHub Website!!!!!
+![image](https://github.com/user-attachments/assets/a41d8a31-7f11-4b3c-84ff-131805af5015)![image](https://github.com/user-attachments/assets/2923dceb-39a8-4ce1-890a-7d3340ea7392)### Hi there 👋 Welcome to Shao-Lei Wang's GitHub Website!!!!!
 <img src = "https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=Welcome+to+Shao-Lei%27s+GitHub!">
 <img src = "https://raw.githubusercontent.com/solomon12354/solomon12354/main/FB_IMG_1702191825304.jpg" width="60%">
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="60%">
@@ -26,13 +26,14 @@
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
 - ⚡ By the way, I am one of a member in the TaTung University's Guitar club and a member in the badminton team and the volleyball team of TTUCSE!!
 
-<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%"><img src="https://github.com/solomon12354/solomon12354/blob/main/divingCertification.jpg?raw=true" width="40%">
+<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%"><img src="https://github.com/solomon12354/solomon12354/blob/main/divingCertification.jpg?raw=true" width="40%"> <img src="https://raw.githubusercontent.com/solomon12354/solomon12354/main/sup.jpg" width="40%">
 
 
 
 ### My contact and social media
 
 [![image](https://github.com/solomon12354/solomon12354/blob/main/facebook.png?raw=true)](https://www.facebook.com/slwang1/) [![image](https://github.com/solomon12354/solomon12354/assets/84257391/d1fcc494-da79-48f5-9a95-f77eab50fb83)](https://www.instagram.com/shao_lei_900518/?hl=zh-tw) [![image](https://github.com/solomon12354/solomon12354/blob/main/youtube.png?raw=true)](https://www.youtube.com/@shao-leiwang6486) [![image](https://github.com/solomon12354/solomon12354/assets/84257391/5b7ccaa8-7bed-4ec1-84ac-a37f92e23c8a)](https://www.dcard.tw/@kwangk.) [![image](https://github.com/solomon12354/solomon12354/blob/main/gmail.png?raw=true)](mailto:solomon12354@gmail.com)
+
 
 My Email:solomon12354@gmail.com
 
