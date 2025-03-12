@@ -2,7 +2,7 @@
 <img src = "https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=Welcome+to+Shao-Lei%27s+GitHub!">
 <img src = "https://raw.githubusercontent.com/solomon12354/solomon12354/main/FB_IMG_1702191825304.jpg" width="60%">
 <img src = "https://twphoto.soonnet.org/Photo/Photo_Resources/251898/1692184351000File/fabf3185-ab7d-4d7a-abb7-49f025debbd0_PB.jpg" width="60%">
-
+<img src="https://github.com/solomon12354/solomon12354/blob/main/volleyball.jpg" width="60%">
 
 ![snake gif](https://github.com/solomon12354/solomon12354/blob/output/github-contribution-grid-snake.svg)
 
@@ -26,7 +26,7 @@
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
 - ⚡ By the way, I am one of a member in the TaTung University's Guitar club and a member in the badminton team and the volleyball team of TTUCSE!!
 
-<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%"><img src="https://github.com/solomon12354/solomon12354/blob/main/divingCertification.jpg?raw=true" width="40%"> <img src="https://raw.githubusercontent.com/solomon12354/solomon12354/main/sup.jpg" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/volleyball.jpg" width="40%">
+<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%"><img src="https://github.com/solomon12354/solomon12354/blob/main/divingCertification.jpg?raw=true" width="40%"> <img src="https://raw.githubusercontent.com/solomon12354/solomon12354/main/sup.jpg" width="40%"> 
 
 
 ### My contact and social media
