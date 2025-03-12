@@ -5,20 +5,7 @@
 <img src="https://github.com/solomon12354/solomon12354/blob/main/volleyball.jpg" width="60%">
 <img src="https://github.com/solomon12354/solomon12354/blob/main/bluehole.jpg" width="60%">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 
 
 
