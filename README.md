@@ -26,8 +26,7 @@
 - ⚡ I love playing the guitar 🎸, playing badminton 🏸, playing volleyball 🏐, playing video game🎮 and swimming 🏊‍♂️.
 - ⚡ By the way, I am one of a member in the TaTung University's Guitar club and a member in the badminton team and the volleyball team of TTUCSE!!
 
-<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%"><img src="https://github.com/solomon12354/solomon12354/blob/main/divingCertification.jpg?raw=true" width="40%"> <img src="https://raw.githubusercontent.com/solomon12354/solomon12354/main/sup.jpg" width="40%">
-
+<img src = "https://github.com/solomon12354/solomon12354/blob/main/badminton.jpg?raw=true" width = "40%"> <img src = "https://github.com/solomon12354/solomon12354/blob/main/badmintonTeam.jpg?raw=true" width = "40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/dive.jpg?raw=true" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/show.jpg?raw=true" width="40%"><img src="https://github.com/solomon12354/solomon12354/blob/main/divingCertification.jpg?raw=true" width="40%"> <img src="https://raw.githubusercontent.com/solomon12354/solomon12354/main/sup.jpg" width="40%"> <img src="https://github.com/solomon12354/solomon12354/blob/main/volleyball.jpg" width="40%">
 
 
 ### My contact and social media
@@ -40,7 +39,7 @@ My Email:solomon12354@gmail.com
 ### My skills
 
 <img src = "https://skillicons.dev/icons?i=c">  <img src = "https://skillicons.dev/icons?i=cpp">  <img src = "https://skillicons.dev/icons?i=java">  <img src = "https://skillicons.dev/icons?i=python">
-<img src = "https://skillicons.dev/icons?i=raspberrypi">  <img src = "https://skillicons.dev/icons?i=html">  <img src = "https://skillicons.dev/icons?i=php">  <img src = "https://skillicons.dev/icons?i=javascript">
+<img src = "https://skillicons.dev/icons?i=raspberrypi">  <img src = "https://skillicons.dev/icons?i=html">  <img src = "https://skillicons.dev/icons?i=php">  <img src = "https://skillicons.dev/icons?i=javascript"> 
 
 - I can program C/C++, Java, Python, RaspberryPi, HTML, PHP, Javascript and x86!!
 
